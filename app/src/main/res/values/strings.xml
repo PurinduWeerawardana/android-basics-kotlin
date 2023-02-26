@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">android-basics-kotlin</string>
+    <string name="happy_b_day_text">Happy B\'day Thamash!</string>
+    <string name="signature_text">From Purindu</string>
 </resources>
